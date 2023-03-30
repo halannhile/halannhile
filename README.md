@@ -10,7 +10,8 @@ Why, you may ask. I love building ML/AI models - I believe they have a tremendou
 
 ### About me:
 
-* 💻 I'm working as a Data Scientist at [Telstra](https://www.telstra.com.au/) - Australia's leading telecommunications company 
-* 🎓 I graduated from Monash University in Melbourne, Australia with a Bachelor degree in Actuarial Science (where I studied a lot of cool maths and stats courses)
+* 💻 Working as a Data Scientist at [Telstra](https://www.telstra.com.au/) - Australia's leading telecommunications company 
+* 🎓 Graduated from Monash University in Melbourne, Australia with a Bachelor degree in Actuarial Science (where I studied a lot of cool maths and stats courses)
+* 🏡 From [Da Nang](https://en.wikipedia.org/wiki/Da_Nang) - a small coastal town in central Vietnam, just 30km away from [Hoi An](https://en.wikipedia.org/wiki/H%E1%BB%99i_An), the famous ancient town where apparently you can find the best banh mi in the world
 
 I'm best reached via [LinkedIn](https://www.linkedin.com/in/nhi-hl-le/). 
