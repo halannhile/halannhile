@@ -9,3 +9,4 @@ Why, you may ask. I love building ML/AI models - I believe they have a tremendou
 * 💻 I'm working as a Data Scientist at Telstra - Australia's leading telecommunications company 
 * 🎓 I graduated from Monash University in Melbourne, Australia with a Bachelor degree in Actuarial Science (where I studied a lot of cool maths and stats courses)
 
+I'm best reached via [LinkedIn](https://www.linkedin.com/in/nhi-hl-le/). 
