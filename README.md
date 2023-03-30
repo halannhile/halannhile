@@ -6,7 +6,7 @@ Why, you may ask. I love building ML/AI models - I believe they have a tremendou
 
 🧩 It's like I have the full design of a house but always miss the last piece of the puzzle - the skills and materials to actually build it out and invite people over to use it. 
 
-🌱 So, I'm on a personal quest to learn how to build things, both with code and with data.
+🌱 So, I'm on a personal quest to learn how to **build** things, both with code and with data.
 
 * 💻 I'm working as a Data Scientist at [Telstra](https://www.telstra.com.au/) - Australia's leading telecommunications company 
 * 🎓 I graduated from Monash University in Melbourne, Australia with a Bachelor degree in Actuarial Science (where I studied a lot of cool maths and stats courses)
