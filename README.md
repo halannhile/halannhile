@@ -2,7 +2,7 @@
 
 💡 I'm a data scientist who is learning to also become a software engineer. 
 
-Why, you may ask. I do love my job as a data scientist, I love building ML/AI models - I believe they have a tremendous potential to make a positive impact in so many areas. But throughout my time working as a data scientist, I realized without the skill set of a software engineer, I cannot bring my models to life. I always had to rely on the software engineers in my team to handle the shipping of my models to the users of our company's website and app. 
+Why, you may ask. I do love my job as a data scientist, I love building ML/AI models - I believe they have a tremendous potential to make a positive impact in so many areas. But throughout my time working as a data scientist, I realized that without the skill set of a software engineer, I cannot bring my models to life. I always had to rely on the software engineers in my team to handle the shipping of my models to the users of our company's website and app. 
 
 🧩 It's like I have the full design of a house but always miss the last piece of the puzzle - the skills and materials to actually build it out and allow people to use it.
 
