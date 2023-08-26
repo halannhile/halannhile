@@ -12,7 +12,7 @@ Why, you may ask. I do love my job as a data scientist, I love building ML/AI mo
 
 * 💻 Working as a Data Scientist at [Telstra](https://en.wikipedia.org/wiki/Telstra) - Australia's leading telecommunications and information services company 
 * 🎓 Graduated from Monash University in Melbourne, Australia with a Bachelor degree in Actuarial Science (where I studied some cool maths and stats courses)
-* 🏡 From [Da Nang](https://en.wikipedia.org/wiki/Da_Nang) - a small coastal town in central Vietnam, just 30km away from [Hoi An](https://en.wikipedia.org/wiki/H%E1%BB%99i_An) - the famous ancient town where apparently you can find the best banh mi in the world
+* 🏡 From [Da Nang](https://en.wikipedia.org/wiki/Da_Nang) - a small coastal town in central Vietnam
 
 ### Contact me:
 
